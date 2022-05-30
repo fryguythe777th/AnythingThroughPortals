@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nIoI3EEPsduEZKkH96cfBCi0BmN2RSey+ghzbnPqgJTRV2cvb+gs6ExiQkuWsFTjJljU0eT6gcvtTOl3kpLbAQ==",
+  "success": true,
+  "projectFilePath": "/Users/patrickpowers/Library/Application Support/Terraria/tModLoader/ModSources/AnythingThroughPortals/AnythingThroughPortals.csproj",
+  "expectedPackageFiles": [
+    "/Users/patrickpowers/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

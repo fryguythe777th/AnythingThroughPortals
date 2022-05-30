@@ -1,0 +1,5 @@
+Exactly as it sounds. Anything can now travel through portals created by the Portal Gun. This means players, enemies, town NPCs, projectiles, and dropped items. Some projectiles like minions are blacklisted from this feature for the sake of convenience.
+
+Created by fryguythe777th#9008 on Discord
+
+Reach out if you have any problems or suggestions for projectiles to be blacklisted.
